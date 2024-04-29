@@ -10,8 +10,20 @@
 ### Опыт работы:
 [Опты работы смотри в резюме](https://hh.ru/resume/dbbef9f2ff0cb391610039ed1f427273745870)
 
-### Стек инструментов:
-Python, Numpy, Plotly, Pandas, SQL, MySQL, PostgreSQL, TensorFlow, Scikit-learn, Seaborn, Statsmodels, Matplotlib, MS SQL, Tableau, Power BI, Excel, GitHub
+### Языки
+Python, SQL, PHP, HTML, CSS
+
+### Стек инструментов обработки данных:
+Numpy, Plotly, Pandas, TensorFlow, Scikit-learn, Seaborn, Statsmodels, Matplotlib, Excel
+
+### Базы данных:
+MySQL, PostgreSQL, MS SQL
+
+### Визуализация:
+Tableau, Power BI, Yandex DataLens
+
+### Операционные системы:
+Manjaro, Ubuntu, Debian, Windows
 
 ### Учился:
 - 2024 Яндекс.Практикум, Аналитик данных
