@@ -9,7 +9,7 @@
 - Руководитель отдела аналитики
 
 ### Опыт работы:
-[Опты работы смотри в резюме](https://hh.ru/resume/dbbef9f2ff0cb391610039ed1f427273745870)
+[Опыт работы смотри в резюме](https://hh.ru/resume/dbbef9f2ff0cb391610039ed1f427273745870)
 
 ### Языки:
 Python, SQL, PHP, HTML, CSS
@@ -25,14 +25,6 @@ Tableau, Power BI, Yandex DataLens
 
 ### Операционные системы:
 Manjaro, Ubuntu, Debian, Windows
-
-### Учился:
-- 2024 Яндекс.Практикум, Аналитик данных
-- 2023 Нетология, Power BI анализ и визуализация данных
-- 2023 Udemy, Обработка и предсказание данных в Python
-- 2023 Stepik, Математическая статистика
-- 2023 SkillFactory, Python для анализа данных
-
 
 <!--
 **serkosil/serkosil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
