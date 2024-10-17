@@ -5,9 +5,11 @@
    <a href="https://t.me/sergey_silch">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+   
    <a href="https://wa.me/message/EZFXSSOCGVGJO1">
        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
    </a>
+   
    <a href="mailto:serkosil@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
