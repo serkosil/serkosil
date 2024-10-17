@@ -48,7 +48,7 @@
 - Работаю с кодом в различных средах разработки: Notepad++, VSCode, Spyder, PyCharm.
 - Семейные проблемы отсутствуют.
 - Здоровье позволяет эффективно работать.
-- Готов к решению сложных задач и поиску нестандартных решений.
+- Готов к сложным задачам и поиску нестандартных решений.
 
 <!--
 **serkosil/serkosil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
